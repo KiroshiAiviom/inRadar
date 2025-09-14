@@ -191,4 +191,3 @@ CSV → QC/Очистка → UTM/H3 → Map‑Matching (угол ≤ 30°)
 ---
 
 С вопросами — **Issues/PR** приветствуются.
-# inRadar
