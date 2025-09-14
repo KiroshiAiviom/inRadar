@@ -94,9 +94,12 @@ streamlit run app.py
 </p>
 
 <p align="center">
-  <img src="assets/Speed Distribution.png" alt="Распределение скорости" width="31%"/>
-  <img src="assets/Altitude Distribution.png" alt="Распределение высоты" width="31%"/>
-  <img src="assets/Azimuth Rose.png" alt="Роза направлений" width="31%"/>
+  <img src="assets/Speed Distribution.png" alt="Распределение скорости" width="45%"/>
+  <img src="assets/Altitude Distribution.png" alt="Распределение высоты" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="assets/Azimuth Rose.png" alt="Роза направлений" width="45%"/>
 </p>
 
 ---
